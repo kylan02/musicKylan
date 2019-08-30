@@ -7,10 +7,15 @@
 		margin: 5px;
 		background-color: blanchedAlmond; /* For browsers that do not support gradients */
 		background-repeat: round;
+		text-align: center;
 	}
 	h1{
 		color: green
 	}
 	h2{
 		color: red
+	}
+	img{
+		margin: auto;
+		display: block;
 	}
