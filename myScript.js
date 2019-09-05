@@ -5,4 +5,7 @@ $(document).ready(function(){
 	$("img").click(function(){
 		$("p").show();
 	});
+	$("#thanos").click(function(){
+		$(".first").toggle();
+	});
 });

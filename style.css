@@ -19,6 +19,15 @@
 		margin: auto;
 		display: block;
 	}
+	#thanos{
+		padding: 10px;
+		border-style: solid;
+		border-color: gray;
+		margin: 5px;
+	}
+	* {
+  box-sizing: border-box;
+}
 	/* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
   float: left;
